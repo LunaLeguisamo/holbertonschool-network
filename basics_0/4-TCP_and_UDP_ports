@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Script para mostrar puertos de red escuchando y los procesos asociados
  
-sudo netstat -l -p
+netstat -l -p
