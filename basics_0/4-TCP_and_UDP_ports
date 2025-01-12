@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Script para mostrar los puertos de escucha junto con el PID y el nombre del programa
+# Script p-
 
 netstat -l -p
