@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# The following command uses `ifconfig` to display network interface information.
+
+ifconfig | grep -oP 'inet \K\d+(\.\d+){3}'
