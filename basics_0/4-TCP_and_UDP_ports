@@ -2,4 +2,3 @@
 # Script para mostrar puertos de red escuchando y los procesos asociados
 
 netstat -l -p
-netstat -l -p
