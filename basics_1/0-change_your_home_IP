@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Create a backup of the /etc/hosts file, so you can restore it in case of an error.
 sudo cp /etc/hosts /etc/hosts.bak
 
